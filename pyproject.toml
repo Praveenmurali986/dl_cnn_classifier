@@ -2,15 +2,9 @@
 requires = ['setuptools>=42.0', "wheel"]
 build-backend = "setuptools.build_meta"
 
-<<<<<<< HEAD
 [tool.pytest.ini_options]
 testpaths = [
     "tests"
-=======
-[tools.pytest.ini_options]
-testpaths=[
-    'tests'
->>>>>>> fc2e218e550f7eb3f14f5924d93ef0bdfe4409b3
     ]
 
 [tool.mypy]
