@@ -6,9 +6,9 @@ with open('README.md','r',encoding='utf-8') as f:
 
 __version__='0.0.0'
 
-REPO_NAME='dl_cnn_classifier'
+REPO_NAME='dl_cnn_Classifier'
 AUTHOR_NAME='praveenmurali986'
-SRC_REPO='dlClassifier'
+SRC_REPO='deepClassifier'
 AUTHOR_EMAIL='menvar007@gmail.com'
 
 setuptools.setup(
