@@ -8,7 +8,7 @@ __version__='0.0.0'
 
 REPO_NAME='dl_cnn_Classifier'
 AUTHOR_NAME='praveenmurali986'
-SRC_REPO='dlClassifier'
+SRC_REPO='deepClassifier'
 AUTHOR_EMAIL='menvar007@gmail.com'
 
 setuptools.setup(
