@@ -1,4 +1,3 @@
-import imp
 import os
 import urllib.request as request
 from zipfile import ZipFile
