@@ -133,3 +133,6 @@ dmypy.json
 .vscode
 demo.ipynb
 *.h5
+*.jpg
+*.zip
+/Petimages
