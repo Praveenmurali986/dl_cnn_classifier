@@ -144,3 +144,5 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-01-12-37-39/t
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-14-01-05/train/events.out.tfevents.1664699468.DESKTOP-RBOL7KN.1436.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-14-01-05/validation/events.out.tfevents.1664701461.DESKTOP-RBOL7KN.1436.1.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-20-19-36/train/events.out.tfevents.1664722178.DESKTOP-RBOL7KN.11684.0.v2
+research/mlflow/mlruns
+/mlruns
