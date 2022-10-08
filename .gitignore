@@ -146,3 +146,5 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-14-01-05/v
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-02-20-19-36/train/events.out.tfevents.1664722178.DESKTOP-RBOL7KN.11684.0.v2
 research/mlflow/mlruns
 /mlruns
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-05-16-04-50/validation/events.out.tfevents.1664968024.DESKTOP-RBOL7KN.23340.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-05-16-04-50/train/events.out.tfevents.1664966094.DESKTOP-RBOL7KN.23340.0.v2
